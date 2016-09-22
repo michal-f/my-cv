@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="author" content="Michał Frąckowiak, Gdynia, ul.Świętojańska 2/21, 81-368 Gdynia">
+    <meta name="description" content="Michał Frąckowiak CV / Resume / VCard / HomePage. Software and Web Developer, Coder, Programmer, Gdynia.">
+    <meta name="keywords" content="Michał Frąckowiak, Coder, Software Developer, Programmer, Gdynia">
+    <meta name="msapplication-config" content="/img/favicon/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>M.Frackowiak V-Card</title>
+    <link rel="shortcut icon" type="image/ico" href="favicon.ico" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/img/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" href="/img/favicon/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/img/favicon/favicon-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/img/favicon/manifest.json">
+    <link rel="mask-icon" href="/img/favicon/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="stylesheet" id="tether-css" href="css/tether.css" type="text/css" media="all">
+    <link rel="stylesheet" id="boostrap-css" href="css/bootstrap.css" type="text/css" media="all">
+    <link rel="stylesheet" id="font-awesome-css" href="css/font-awesome.css" type="text/css" media="all">
+    <link rel="stylesheet" id="style-lantern-css" href="css/style.css" type="text/css" media="all">
+    <link rel="stylesheet" id="blog-style-css" href="css/blog-styles.css" type="text/css" media="all">
+    <link rel="stylesheet" id="style-css" href="css/style01.css" type="text/css" media="all">
+    <link rel="stylesheet" href="css/magic.css" type="text/css" media="all">
+    <link rel="stylesheet" href="css/my-cv.css" type="text/css" media="all">
+    <link rel="stylesheet" href="css/font-mfizz.css" type="text/css" media="all">
+    <link rel="stylesheet" type="text/css" href="css/component.css"/>
+    <script type="text/javascript" src="./js/w3data.js"></script>
+</head>
+<body class="home page page-id-6 page-template page-template-frontpage page-template-frontpage-php">
+    <div id="mask" style="display: none;">
+        <div id="loader" style="display: none;">
+        </div>
+    </div>
+    <div id="tab-container" data-easytabs="true">
+        <header class="header-area">
+            <div class="container">
+                <div class="header-outer clearfix">
+                    <div class="logo clearfix">
+                        <a id="mfstart" class="klb-logotext" title="Michal Frąckowiak vCard" rel="home"><span>Michał Frąckowiak</span></a>
+                        <a href="#" class="nav-toggle"><i class="fa fa-bars"></i></a>
+                    </div>
+                    <nav class="navigation-area">
+                        <ul id="menu-menu-1" class="menu">
+                            <li class="inner-tab">
+                                <a class="btntext btn btn-sm">Profile</a>
+                                <a class="btntext btn btn-sm">Resume</a>
+                                <a class="btntext btn btn-sm">Contact</a>
+                                <!--<a class="btntext btn btn-sm">SinglePage</a>-->
+                            </li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </header>
+
+        <section class="full-page-cont clearfix">
+            <div class="container">
+                <div class="row">
+                    <div w3-include-html="./html/home.html"></div>
+                    <div w3-include-html="./html/profile.html"></div>
+                    <div w3-include-html="./html/resume.html"></div>
+                    <div w3-include-html="./html/portfolio.html"></div>
+                    <div w3-include-html="./html/blog.html"></div>
+                    <div w3-include-html="./html/contact.html"></div>
+                    <script>w3IncludeHTML();</script>
+                </div>
+            </div>
+        </section>
+        <footer class="footer-area">
+            <div class="copy-content">Michał Frąckowiak - Software Developer - V card - last updated: 23.09.2016 r.</div>
+            <!-- The Modal -->
+            <div id="myModal" class="modal">
+                <div class="modal-content">
+                    <span class="close">x</span>
+                    <p>Some text in the Modal..</p>
+                </div>
+            </div>
+        </footer>
+    </div>
+    <script>
+        function myMap() {
+            document.getElementById('map').style.display = "block";
+            var mapCanvas = document.getElementById("map");
+            var myCenter = new google.maps.LatLng(54.521423, 18.543009);
+            var mapOptions = {center: myCenter, zoom: 6};
+            var map = new google.maps.Map(mapCanvas, mapOptions);
+            var marker = new google.maps.Marker({
+                position: myCenter,
+                icon: "./img/down-arrow2.png",
+                animation: google.maps.Animation.BOUNCE
+            });
+            marker.setMap(map);
+        }
+    </script>
+    <script type="text/javascript" src="./js/w3data.js"></script>
+    <script type="text/javascript" src="./js/jquery-1.10.2.js"></script>
+    <script type="text/javascript" src="./js/modernizr.custom.js"></script>
+    <script type="text/javascript" src="./js/tether.js"></script>
+    <script type="text/javascript" src="./js/bootstrap.js"></script>
+    <script type="text/javascript" src="./js/my_cv.js"></script>
+    <script type="text/javascript" src="./js/map.js"></script>
+    <script src="js/contact_form.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD15EWJ1WVQBm58QRbna4QYYakVLhvAhUc&callback=myMap"></script>
+</body>
+</html>

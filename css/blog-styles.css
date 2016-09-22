@@ -1,0 +1,311 @@
+/*
+	Theme Name: Lantern - Responsive vCard & Resume Template
+	Theme URI: http://themeforest.net/user/lanternthemes
+	Description: This css file is for template layout alignments
+	Version: 1.0
+	Author: Lantern Themes
+	Author URI: http://themeforest.net/user/lanternthemes
+	Tags:
+	
+	---------------------------
+	BLOG TEMPLATE STYLES
+	---------------------------
+	
+	TABLE OF CONTENTS
+	---------------------------
+	 01. Banner Styles
+	 02. Global Styles
+	 03. Blog Left Styles
+	 04. Blog Right Styles
+	 05. Media Query
+*/
+
+/* ==================================================== */
+/* 01. Banner Styles                                    */
+/* ==================================================== */
+
+.single-page-header {
+	padding:0 0 0 0;
+	margin:0 0 0 0;
+	text-align:center;
+}
+.single-page-header .header-bg {
+	background:url(../img/banner-01.jpg) no-repeat center center;
+	-webkit-background-size:cover!important;
+	-moz-background-size:cover!important;
+	-ms-background-size:cover!important;
+	background-size:cover!important;
+}
+.single-page-header .header-for-blog {
+	padding:70px 0 80px 0;
+	background:rgba(0,0,0,0.6);
+}
+.single-page-header .header-for-blog h1 {
+	padding:0 0 0 0;
+	margin:0 0 0 0;
+	font-size:100px;
+	font-weight:900;
+	text-transform:uppercase;
+	color:rgba(255,69,0,0.5);
+}
+
+/* ==================================================== */
+/* 02. Global Styles                                    */
+/* ==================================================== */
+
+.blog-main {
+	padding:80px 0;
+	margin:0 0 0 0;
+	font-size:14px;
+}
+.blog-header {
+	padding:80px 0 90px 0;
+	background:#333333;
+}
+.blog-header h1 {
+	padding:0 0 0 0;
+	margin:0 0 0 0;
+	color:#ffffff;
+	font-size:72px;
+	text-transform:uppercase;
+}
+.blog-main h2 a, .blog-main h2 a, .blog-main h3 a, .blog-main h4 a, .blog-main h5 a,
+.blog-main h2 a:hover, .blog-main h2 a:hover, .blog-main h3 a:hover, .blog-main h4 a:hover, .blog-main h5 a:hover {
+	color:#ffffff;
+	text-decoration:none;
+}
+
+/* ==================================================== */
+/* 03. Blog Left Styles                                 */
+/* ==================================================== */
+
+.blog-left {
+	padding-right:80px;
+	font-size:14px;
+}
+.blog-single {
+	padding:0 0 30px 0;
+	margin:50px 0 0 0;
+	border-bottom:2px solid rgba(251,251,251,0.1);
+}
+.blog-single:first-child {
+	margin:0 0 0 0;
+}
+.blog-single:last-child {
+	padding:0 0 0 0;
+	border-bottom:0;
+}
+.post-media {
+	padding:0 0 0 0;
+	margin:0 0 10px 0;
+}
+.post-media img {
+	width:100%;
+}
+.post-title {
+	padding:0 0 0 0;
+	margin:0 0 0 0;
+}
+.post-meta {
+	padding:10px 0;
+	margin:0 0 15px 0;
+	border-top:1px solid rgba(251,251,251,0.1);
+	border-bottom:1px solid rgba(251,251,251,0.1);
+	font-size:13px;
+	font-style:italic;
+}
+.post-meta i {
+	padding-left:20px;
+	color:#666666;
+	font-size:14px;
+}
+.post-meta i:first-child {
+	padding-left:0;
+}
+.post-meta a {
+	color:#666666;
+	text-decoration:none;
+}
+.post-content {
+	padding:0 0 0 0;
+	margin:0 0 0 0;
+	font-size:14px;
+}
+.post-content .read-more-link {
+	padding:3px 15px;
+	margin:10px 0;
+	color:#666666;
+	text-decoration:none;
+	font-style:italic;
+	border:1px solid rgba(251,251,251,0.1);
+	display:inline-block;
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+}
+.post-content .read-more-link:hover {
+	color:#ffffff;
+	text-decoration:none;
+	background:#333333;
+	border:1px solid rgba(251,251,251,0.1);
+}
+
+/* Comment Area */
+
+.comment-respond {
+	padding-top:40px;
+}
+.comment-respond h3 {
+	padding:0 0 0 0;
+	margin:0 0 15px 0;
+	font-size:18px;
+	text-transform:uppercase;
+}
+.comment-form {
+	padding:0 0 0 0;
+	margin:0 0 0 0;
+}
+.comment-notes {
+	padding-bottom:10px;
+}
+.comment-form input, .comment-form textarea {
+	padding:5px 10px;
+	margin:0 0 0 0;
+	color:#666666;
+	border:1px solid rgba(251,251,251,0.1);
+	width:100%;
+	background:none;
+}
+.comment-form textarea {
+	height:150px;
+}
+.comment-form .form-submit #submit {
+padding: 12px 0 10px 0;
+margin: 0 1% 15px 0;
+width: 150px;
+border: 0;
+font-family: 'Raleway', sans-serif;
+font-weight: 700;
+font-size: 14px;
+color: #ffffff;
+text-transform: uppercase;
+background: #1e75f6;
+    transition: all 0.5s ease 0s;
+    -webkit-transition: all 0.5s ease 0s;
+    -moz-transition: all 0.5s ease 0s;
+}
+.comment-form .form-submit #submit:hover {
+	color:#ffffff;
+	background:#333333;
+}
+.comment-form #respond-inputs  {
+	padding:0 0 10px 0;
+}
+.comment-form #respond-inputs p {
+	padding:0 0 0 0;
+	margin:0 0 0 0;
+	float:left;
+	width:33.333%;
+}
+.comment-form #respond-inputs p:nth-child(2) {
+	padding:0 10px;
+}
+
+/* ==================================================== */
+/* 04. Blog Right Styles                                */
+/* ==================================================== */
+
+.sidebar-content {
+	padding-top:30px;
+	font-size:14px;
+}
+.sidebar-content a, .sidebar-content a:focus {
+	color:#666666;
+	text-decoration:none;
+}
+.sidebar-content a:hover {
+	color:#333333;
+	text-decoration:none;
+}
+.sidebar-content h3 {
+	padding:0 0 0 0;
+	margin:40px 0 15px 0;
+	font-size:18px;
+	text-transform:uppercase;
+}
+.sidebar-content ul {
+	padding:0 0 30px 0;
+	margin:0 0 0 0;
+	list-style:none;
+	border-bottom:2px solid rgba(251,251,251,0.1);
+}
+.sidebar-content ul li {
+	padding:3px 0;
+	margin:0 0 0 0;
+}
+.sidebar-content ul li:before {
+	padding-right:10px;
+	font-family: 'FontAwesome';
+	content:'\f101';
+}
+.widget_search {
+	padding:0 0 0 0;
+	margin:0 0 0 0;
+	border:1px solid rgba(251,251,251,0.1);
+}
+.widget_search .search-field {
+	padding:5px 10px;
+	margin:0 0 0 0;
+	border:0;
+	font-size:14px;
+	float:left;
+	width:80%;
+	color:#666666;
+	background:none;
+}
+.widget_search .search-btn {
+	padding:5px 10px;
+	margin:0 0 0 0;
+	border:0;
+	background:none;
+	font-size:16px;
+	float:right;
+	width:20%;
+	text-align:right;
+	color:#333333;
+}
+
+
+/* ==================================================== */
+/* 05. Media Query                                      */
+/* ==================================================== */
+
+
+@media (max-width: 991px) { /* This media query is written for Ipad and tablets */
+
+.blog-left {
+	padding-right:15px;
+}
+
+}
+
+@media (max-width: 480px) { /* This media query is written for Mobile only */
+
+.single-page-header .header-for-blog h1 {
+	font-size:36px;
+}
+.blog-main {
+	padding:30px 0;
+}
+.blog-left h2 {
+	font-size:28px;
+}
+.comment-form #respond-inputs p {
+	padding-top:10px;
+	width:100%;
+}
+.comment-form #respond-inputs p:nth-child(2) {
+	padding:10px 0 0 0;
+}
+
+}

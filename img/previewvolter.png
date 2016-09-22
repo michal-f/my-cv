@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+<html lang="en-US">
+    <head>
+	    <!--
+        ============================================================================
+        Arnem One Page Parallax Wordpress Theme by Sinan Isik 
+        ThemeForest URL: http://themeforest.net/user/sinanisik
+        ============================================================================
+        -->
+		
+		
+        <!-- Meta UTF8 charset -->
+        <meta charset="UTF-8" />
+		
+        <!-- Basic page information -->
+        <meta name="author" content="">
+        <meta name="description" content="">
+		<meta name="keywords" content="">
+        <title>Page not found | Volter Art Studio WordPress Theme</title>
+		
+		
+        <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="shortcut icon" href="">
+
+        <link rel="alternate" type="application/rss+xml" title="Volter Art Studio Wordpress Theme &raquo; Feed" href="http://klbtheme.com/volter/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Volter Art Studio Wordpress Theme &raquo; Comments Feed" href="http://klbtheme.com/volter/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/klbtheme.com\/volter\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56806,55356,56826),0,0),c.toDataURL().length>3e3):("simple"===a?d.fillText(String.fromCharCode(55357,56835),0,0):d.fillText(String.fromCharCode(55356,57135),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='http://klbtheme.com/volter/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='tp_twitter_plugin_css-css'  href='http://klbtheme.com/volter/wp-content/plugins/recent-tweets-widget/tp_twitter_plugin.css?ver=1.0' type='text/css' media='screen' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='http://klbtheme.com/volter/wp-content/plugins/revslider/rs-plugin/css/settings.css?ver=4.6.3' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+.tp-caption a{color:#ff7302;text-shadow:none;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out}.tp-caption a:hover{color:#ffa902}
+</style>
+<link rel='stylesheet' id='owlcarousel-css'  href='http://klbtheme.com/volter/wp-content/themes/volter/volter/bower_components/OwlCarousel/owl-carousel/owl.carousel.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='owltheme-css'  href='http://klbtheme.com/volter/wp-content/themes/volter/volter/bower_components/OwlCarousel/owl-carousel/owl.theme.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='owltransitions-css'  href='http://klbtheme.com/volter/wp-content/themes/volter/volter/bower_components/OwlCarousel/owl-carousel/owl.transitions.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-css'  href='http://klbtheme.com/volter/wp-content/themes/volter/volter/bower_components/jquery-animate/animate.css?ver=4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='lightbox-css'  href='http://klbtheme.com/volter/wp-content/themes/volter/volter/bower_components/lightbox/css/lightbox.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='styles-css'  href='http://klbtheme.com/volter/wp-content/themes/volter/volter/css/styles.css?ver=4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='layout-css'  href='http://klbtheme.com/volter/wp-content/themes/volter/volter/css/fd-layout.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='avicon-css'  href='http://klbtheme.com/volter/wp-content/themes/volter/volter/css/icon-fonts/av-icons.css?ver=4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='fine-css'  href='http://klbtheme.com/volter/wp-content/themes/volter/volter/css/fontello/fine.css?ver=4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='http://klbtheme.com/volter/wp-content/themes/volter/volter/style.css?ver=4.4' type='text/css' media='all' />
+<script type='text/javascript' src='http://klbtheme.com/volter/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='http://klbtheme.com/volter/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://klbtheme.com/volter/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.tools.min.js?ver=4.6.3'></script>
+<script type='text/javascript' src='http://klbtheme.com/volter/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js?ver=4.6.3'></script>
+<link rel='https://api.w.org/' href='http://klbtheme.com/volter/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://klbtheme.com/volter/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://klbtheme.com/volter/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.4" />
+		<script type="text/javascript">
+			jQuery(document).ready(function() {
+				// CUSTOM AJAX CONTENT LOADING FUNCTION
+				var ajaxRevslider = function(obj) {
+				
+					// obj.type : Post Type
+					// obj.id : ID of Content to Load
+					// obj.aspectratio : The Aspect Ratio of the Container / Media
+					// obj.selector : The Container Selector where the Content of Ajax will be injected. It is done via the Essential Grid on Return of Content
+					
+					var content = "<h2>THIS IS SOME TITLE</h2><br/>";
+
+					content += "Type:"+obj.type+"</br>";
+					content += "ID:"+obj.id+"</br>";        
+					content += "Aspect Ratio:"+obj.aspectratio+"</br>";  
+					
+					data = {};
+					
+					data.action = 'revslider_ajax_call_front';
+					data.client_action = 'get_slider_html';
+					data.token = '6b860bd565';
+					data.type = obj.type;
+					data.id = obj.id;
+					data.aspectratio = obj.aspectratio;
+					
+					// SYNC AJAX REQUEST
+					jQuery.ajax({
+						type:"post",
+						url:"http://klbtheme.com/volter/wp-admin/admin-ajax.php",
+						dataType: 'json',
+						data:data,
+						async:false,
+						success: function(ret, textStatus, XMLHttpRequest) {
+							if(ret.success == true)
+								content = ret.data;								
+						},
+						error: function(e) {
+							console.log(e);
+						}
+					});
+					
+					 // FIRST RETURN THE CONTENT WHEN IT IS LOADED !!
+					 return content;						 
+				};
+				
+				// CUSTOM AJAX FUNCTION TO REMOVE THE SLIDER
+				var ajaxRemoveRevslider = function(obj) {
+					return jQuery(obj.selector+" .rev_slider").revkill();
+				}
+
+				// EXTEND THE AJAX CONTENT LOADING TYPES WITH TYPE AND FUNCTION
+				var extendessential = setInterval(function() {
+					if (jQuery.fn.tpessential != undefined) {
+						clearInterval(extendessential);
+						if(typeof(jQuery.fn.tpessential.defaults) !== 'undefined')
+							jQuery.fn.tpessential.defaults.ajaxTypes.push({type:"revslider",func:ajaxRevslider,killfunc:ajaxRemoveRevslider,openAnimationSpeed:0.3});   
+							// type:  Name of the Post to load via Ajax into the Essential Grid Ajax Container
+							// func: the Function Name which is Called once the Item with the Post Type has been clicked
+							// killfunc: function to kill in case the Ajax Window going to be removed (before Remove function !
+							// openAnimationSpeed: how quick the Ajax Content window should be animated (default is 0.3)
+					}
+				},30);
+			});
+		</script>
+		
+<style type="text/css">
+
+/* Define the base color */
+
+::selection {
+  background-color: #ff7859;
+
+}
+
+.av-sub:after {
+  background-color: #ff7859;
+}
+
+.av-has-divider:after {
+  background-color: #ff7859;
+
+}
+
+.av-fancy-list li:before {
+  border: 1px solid #ff7859;
+}
+
+.tooltip {
+  color: #ff7859;
+
+}
+
+a,
+a:visited {
+  color: #ff7859;
+}
+
+
+a {
+  color: #ff7859;
+}
+
+
+strong {
+  color: #ff7859;
+}
+
+.highlight {
+  color: #ff7859;
+}
+
+.btn-primary {
+  background-color: #ff7859 !important;
+}
+
+.av-icon-box:hover > i {
+  background-color: #ff7859;
+  border-color: #ff7859;
+}
+
+.av-inline-icon-box h3 i {
+  color: #ff7859;
+
+}
+
+.av-right-side-icon-box i {
+  color: #ff7859;
+}
+
+.av-left-side-icon-box i {
+  color: #ff7859;
+}
+
+.av-portfolio-item .av-portfolio-overlay .av-icon {
+
+  background-color: #ff7859;
+}
+
+.av-portfolio-item .av-portfolio-info p a:hover {
+  color: #ff7859;
+}
+
+.av-primary-bg {
+  background-color: #ff7859;
+}
+
+.av-person .av-peson-info {
+  background-color: #ff7859;
+}
+
+.av-person .av-person-overlay .av-person-social a:hover {
+  background-color: #ff7859;
+  border-color: #ff7859;
+}
+
+.av-pricing-table .av-header {
+  background-color: #ff7859;
+}
+
+.av-pricing-table .av-mid .av-price {
+  color: #ff7859;
+}
+
+
+.av-pricing-table .av-mid .av-cents {
+  color: #ff7859;
+}
+
+.av-tags-widget .av-tag-list li a:hover {
+  background-color: #ff7859;
+  border-color: #ff7859;
+}
+
+.av-main-header .av-main-nav li a:hover, .av-main-header .av-main-nav li a.active {
+  color: #ff7859;
+  border-bottom: 1px solid #ff7859;
+}
+
+.av-main-header .av-main-nav li .sub-menu li a:hover {
+  color: #ff7859;
+}
+
+  .av-mobile-nav li a:hover {
+    color: #ff7859;
+  }
+
+.av-share-post .content i {
+  background-color: #ff7859;
+
+}
+
+.av-comments-area .av-commentlist .av-comment .av-comment-meta figure {
+  border: 1px solid #ff7859;
+
+}
+
+.av-comments-area .av-commentlist .av-comment .av-comment-meta:after {
+  background-color: #ff7859;
+}
+
+.av-comments-area .av-comment-respond .av-comment-form .av-input-control input:focus {
+  border-color: #ff7859;
+}
+
+.av-comments-area .av-comment-respond .av-comment-form .av-input-control textarea:focus {
+  border-color: #ff7859;
+}
+
+.av-contact-box .av-icon {
+  color: #ff7859;
+}
+
+.av-sidebar .av-widget .av-widget-head:after {
+  background-color: #ff7859;
+}
+
+.comment-form input:focus { 
+  border-color: #ff7859;
+}
+
+.comment-form textarea:focus {
+  border-color: #ff7859;
+}
+
+.tagcloud  a:hover {
+  background-color: #ff7859;
+  border-color: #ff7859;
+}
+
+.wpcf7 input.wpcf7-submit {
+background-color: #ff7859 !important;
+}
+</style>
+   
+    </head>
+
+    <body class="error404">
+  
+ 
+
+      <!-- ************************************
+     Navegation 
+     ************************************* --> 
+     
+     <div class="av-fullwidth av-main-header">
+         <div class="row">
+                
+             <a href="#" class="av-mobile-toggle"><i class="av-icon av_icon_menu"></i></a>    
+             <div class="column medium-3 av-logo-container">
+                 <a href="http://klbtheme.com/volter/"><img src="http://198.55.29.50/~sinans1/volter/wp-content/uploads/2014/10/logo.png"></a>
+             </div><!-- End of column -->
+             
+             <div class="column medium-9">
+			 
+			     <nav>
+			               <ul id="menu-all-pages" class="av-main-nav"><li><a href="http://klbtheme.com/volter/#home" onclick="$('#home').animatescroll();">Home</a></li><li><a href="http://klbtheme.com/volter/#about-us" onclick="$('#about-us').animatescroll();">About Us</a></li><li><a href="http://klbtheme.com/volter/#works" onclick="$('#works').animatescroll();">Works</a></li></li><li><a href="http://klbtheme.com/volter/#features" onclick="$('#features').animatescroll();">Features</a></li></li></li></li><li><a href="http://klbtheme.com/volter/#team-member" onclick="$('#team-member').animatescroll();">Team</a></li></li><li><a href="http://klbtheme.com/volter/#blog-section" onclick="$('#blog-section').animatescroll();">Blog Section</a></li><li><a href="http://klbtheme.com/volter/#contact" onclick="$('#contact').animatescroll();">Contact</a></li><li><a href="http://klbtheme.com/volter/blog/" onclick="$('#blog').animatescroll();">Blog</a>
+<ul class="sub-menu">
+	<li><a href="http://klbtheme.com/volter/speed-photography/">Blog Single Fullwidth</span></a></li>	<li><a href="http://klbtheme.com/volter/lorem-ipsum-volter/">Blog Single Sidebar</span></a></li></ul>
+</li></ul>
+                    
+                 </nav><!-- End of nav -->
+             </div><!-- End of column-->
+             
+         </div><!-- End of row -->
+     </div><!-- End of section -->
+ 
+            <center><img src="http://klbtheme.com/volter/wp-content/themes/volter/volter/images/404.png" /></center>
+    
+            <center> <div class="hero-text lobster">404 Not Found</div></center>                  
+                            
+                    
+      <div class="av-fullwidth av-darken-bg ">
+           
+        <div class="row">
+            <div class="av-copyright av-text-white av-text-center">
+
+                <p class="av-no-margin">Volter Wordpress Theme by <a target="http://themeforest.net/user/KlbTheme">KlbTheme</a> - Design by <a target="http://themeforest.net/user/seasonsca">Seasonsca</a></p>
+        
+            </div>
+         </div><!-- End of row -->
+      </div><!-- End of section -->
+
+        <style type="text/css">
+                   </style>
+		
+		<script type="text/javascript">
+                   </script>
+		
+		 
+        <script type='text/javascript' src='http://klbtheme.com/volter/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/klbtheme.com\/volter\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://klbtheme.com/volter/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.1.2'></script>
+<script type='text/javascript' src='http://klbtheme.com/volter/wp-content/themes/volter/volter/bower_components/jquery/jquery.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://klbtheme.com/volter/wp-content/themes/volter/volter/bower_components/stellar/jquery.stellar.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://klbtheme.com/volter/wp-content/themes/volter/volter/bower_components/jquery-cycle2/build/jquery.cycle2.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://klbtheme.com/volter/wp-content/themes/volter/volter/bower_components/countUp.js/countUp.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://klbtheme.com/volter/wp-content/themes/volter/volter/bower_components/OwlCarousel/owl-carousel/owl.carousel.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://klbtheme.com/volter/wp-content/themes/volter/volter/bower_components/jquery-waypoints/waypoints.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://klbtheme.com/volter/wp-content/themes/volter/volter/bower_components/jquery-waypoints/shortcuts/sticky-elements/waypoints-sticky.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://klbtheme.com/volter/wp-content/themes/volter/volter/bower_components/ScrollIt.js/scrollIt.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://klbtheme.com/volter/wp-content/themes/volter/volter/bower_components/jquery-animate/animate.js?ver=1.0'></script>
+<script type='text/javascript' src='http://klbtheme.com/volter/wp-content/themes/volter/volter/bower_components/lightbox/js/lightbox.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://klbtheme.com/volter/wp-content/themes/volter/volter/bower_components/animateScroll/animatescroll.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://klbtheme.com/volter/wp-content/themes/volter/volter/js/scripts.js?ver=1.0'></script>
+<script type='text/javascript' src='http://klbtheme.com/volter/wp-includes/js/wp-embed.min.js?ver=4.4'></script>
+      
+    </body>
+</html>
