@@ -107,7 +107,7 @@ $(document).ready(function () {
         /*PROFILE CLICK EVENT -> PROFILE PAGE*/
         function addClickIfVisible() {
             var viewprofilebtn = $("#viewprofile");
-            var viewprofilenavbtn = $("#menu-menu-1 > li > a:nth-child(1)");
+            var viewprofilenavbtn = $("#menu-menu-1 > li:nth-child(1) > a:nth-child(1)");
             if (viewprofilebtn.is(":visible")) {
                 viewprofilebtn.click(function () {
                     if (blockChanging == false) {
