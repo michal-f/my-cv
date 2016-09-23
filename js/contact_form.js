@@ -12,7 +12,7 @@ $(document).ready(function () {
             alert("Please Fill Required Fields");
         } else {
 // Returns successful data submission message when the entered information is stored in database.
-            $.post("html/contact_form.php", {
+            $.post("/html/contact_form.php", {
                 name1: name,
                 email1: email,
                 message1: message,

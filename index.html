@@ -80,6 +80,7 @@
 </div>
 <script>
     function myMap() {
+        if(document.getElementById('map')){
         document.getElementById('map').style.display = "block";
         var mapCanvas = document.getElementById("map");
         var myCenter = new google.maps.LatLng(54.521423, 18.543009);
@@ -91,6 +92,7 @@
             animation: google.maps.Animation.BOUNCE
         });
         marker.setMap(map);
+            }
     }
 </script>
 <script type="text/javascript" src="./js/w3data.js"></script>
@@ -100,7 +102,7 @@
 <script type="text/javascript" src="./js/bootstrap.js"></script>
 <script type="text/javascript" src="./js/my_cv.js"></script>
 <script type="text/javascript" src="./js/map.js"></script>
-<script type="text/javascript" src="./js/util.js"></script>
+<!--<script type="text/javascript" src="./js/util.js"></script>-->
 <script type="text/javascript" src="./js/component.js"></script>
 <script src="./js/contact_form.js"></script>
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD15EWJ1WVQBm58QRbna4QYYakVLhvAhUc&callback=myMap"></script>
