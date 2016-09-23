@@ -1,15 +1,15 @@
 /**
  * Created by M.Frackowiak on 01.07.2016.
  */
+
 $(document).ready(function () {
         $(function () {
             $('[data-toggle="tooltip"]').tooltip()
         });
         var div_list = ["#home", "#resume", "#profile", "#portfolio", "#blog", "#contact", "#my-profile", "#blog-section"];
         var animation_class_pairs = [
-
+            ["vanishIn", "vanishOut"]
             //["slideDownRetourn", "vanishOut"],
-            ["vanishIn", "vanishOut"],
             //["puffIn", "puffOut"],
             //["vanishIn", "vanishOut"],
             //["spaceInUp", "spaceOutUp"],
@@ -28,7 +28,8 @@ $(document).ready(function () {
             //["openUpLeftRetourn", "openUpLeft"],
             //["openUpRightRetourn", "openUpRight"],
         ];
-//#### MENU ITEM LIST #####
+
+        /*#### MENU ITEM LIST #####*/
         var currentDiv = "home";
         var currentMenuItem = $("#menu-menu-1 > li > a:nth-child(7)");
         var clickedMenuItem;
@@ -81,7 +82,7 @@ $(document).ready(function () {
                     myMap();
             }, 1700);
         }
-
+        
         $("#menu-menu-1 > li > a").click(function () {
             if (currentDiv != $(this).text().toLowerCase() && blockChanging == false) {
                 clickedMenuItem = $(this);
@@ -102,18 +103,25 @@ $(document).ready(function () {
             }
         });
 
-       
+
         /*PROFILE CLICK EVENT -> PROFILE PAGE*/
-        if ($('#viewprofile').is(':visible')) {
-            $("#viewprofile").click(function () {
+        function addClickIfVisible() {
+            var viewprofilebtn = $("#viewprofile");
+            var viewprofilenavbtn = $("#menu-menu-1 > li > a:nth-child(1)");
+            if (viewprofilebtn.is(":visible")) {
+                viewprofilebtn.click(function () {
                     if (blockChanging == false) {
                         change_div("profile");
                         currentMenuItem.removeClass("btn-primary");
+                        viewprofilenavbtn.addClass("btn-primary");
+                        currentMenuItem = viewprofilenavbtn;
                     }
-                }
-            );
-        } else {
-            alert("notvisible333");
+                });
+            }
+            else {
+                setTimeout(addClickIfVisible, 500);
+            }
         }
+        addClickIfVisible();
     }
 );
