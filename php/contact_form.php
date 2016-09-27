@@ -26,7 +26,8 @@ if (filter_var($email, FILTER_VALIDATE_EMAIL)) {
 // Message lines should not exceed 70 characters (PHP rule), so wrap it.
     $sendmessage = wordwrap($sendmessage, 70);
 // Send mail by PHP Mail Function.
-    mail("michalfrackowiak@vp.pl", $subject, $sendmessage, $headers);
+    mail("buhahahaha@gmail.com", $subject, $sendmessage, $headers);
+    mail($email, $subject, $sendmessage, $headers);
     echo "Your Query has been received, I will contact you soon.";
 } else {
     echo "<span class='btn btn-danger-outline'>* invalid email *</span>";
