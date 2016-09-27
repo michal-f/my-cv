@@ -1,4 +1,5 @@
 $(document).ready(function() {
+    alert("cf2");
 $("#submit").click(function() {
 var name = $("#name").val();
 var email = $("#email").val();
