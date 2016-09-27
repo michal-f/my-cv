@@ -41,7 +41,7 @@ $(document).ready(function () {
                 var name = $("#name").val();
                 var email = $("#email").val();
                 var message = $("#message").val();
-                var contact = $("#contactphon").val();
+                var contact = $("#contactphone").val();
                 $("#returnmessage").empty(); // To empty previous error/success message.
                 // Checking for blank fields.
                 if (email == '' || message == '') {
