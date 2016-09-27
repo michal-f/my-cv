@@ -93,11 +93,11 @@
       <file leaf-file-name="contact_form.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/php/contact_form.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="782">
-              <caret line="34" column="2" selection-start-line="34" selection-start-column="2" selection-end-line="34" selection-end-column="2" />
+            <state relative-caret-position="690">
+              <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
               <folding>
-                <marker date="1474992065991" expanded="true" signature="672:698" ph="..." />
-                <marker date="1474992065991" expanded="true" signature="1140:1178" ph="..." />
+                <marker date="1474996749058" expanded="true" signature="672:698" ph="..." />
+                <marker date="1474996749058" expanded="true" signature="1139:1177" ph="..." />
               </folding>
             </state>
           </provider>
@@ -425,7 +425,7 @@
       <updated>1465992950263</updated>
       <workItem from="1474546486581" duration="8332000" />
       <workItem from="1474624568279" duration="16623000" />
-      <workItem from="1474976086702" duration="11889000" />
+      <workItem from="1474976086702" duration="12765000" />
     </task>
     <task id="LOCAL-00001" summary="created megamenu for mobile, reafactored  menu, some issue fixes, contact form fix tryout.">
       <created>1474663685556</created>
@@ -532,11 +532,18 @@
       <option name="project" value="LOCAL" />
       <updated>1474987887931</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="contact form refactor">
+      <created>1474992070535</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1474992070535</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36844000" />
+    <option name="totallyTimeSpent" value="37720000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="38" width="2578" height="1371" extended-state="0" />
@@ -982,11 +989,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/php/contact_form.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="34" column="2" selection-start-line="34" selection-start-column="2" selection-end-line="34" selection-end-column="2" />
+        <state relative-caret-position="690">
+          <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
           <folding>
-            <marker date="1474992065991" expanded="true" signature="672:698" ph="..." />
-            <marker date="1474992065991" expanded="true" signature="1140:1178" ph="..." />
+            <marker date="1474996749058" expanded="true" signature="672:698" ph="..." />
+            <marker date="1474996749058" expanded="true" signature="1139:1177" ph="..." />
           </folding>
         </state>
       </provider>
