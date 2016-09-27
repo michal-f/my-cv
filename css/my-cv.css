@@ -229,3 +229,16 @@ hr {
     border-color: #595959;
 }
 
+#personal-skills{
+    zoom: 120%;
+    margin-top: 0;
+    padding-top: 0;
+}
+.h4-blue{
+        color: #1e75f6 !important;
+}
+.h4-blue:hover{
+        color: #0aebff!important;
+}
+.hover-b:hover{
+        color: #0aebff!important;}
