@@ -128,6 +128,8 @@ $(document).ready(function () {
     /*CONTACT FORM HANDLER*/
         alert("hello");
     $("#submit").click(function () {
+                alert("Click");
+
         var name = $("#name").val();
         var email = $("#email").val();
         var message = $("#message").val();

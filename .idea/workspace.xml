@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a645b960-c37b-4430-a97f-2138fbe60bd2" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/contact.html" afterPath="$PROJECT_DIR$/html/contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/contact_form2.js" afterPath="$PROJECT_DIR$/js/contact_form2.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/my_cv.js" afterPath="$PROJECT_DIR$/js/my_cv.js" />
     </list>
     <ignored path="cv.iws" />
@@ -50,8 +47,8 @@
       <file leaf-file-name="my_cv.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/my_cv.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="127" column="6" selection-start-line="127" selection-start-column="4" selection-end-line="127" selection-end-column="28" />
+            <state relative-caret-position="466">
+              <caret line="130" column="28" selection-start-line="130" selection-start-column="28" selection-end-line="130" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -415,7 +412,7 @@
       <updated>1465992950263</updated>
       <workItem from="1474546486581" duration="8332000" />
       <workItem from="1474624568279" duration="16623000" />
-      <workItem from="1474976086702" duration="2909000" />
+      <workItem from="1474976086702" duration="3046000" />
     </task>
     <task id="LOCAL-00001" summary="created megamenu for mobile, reafactored  menu, some issue fixes, contact form fix tryout.">
       <created>1474663685556</created>
@@ -452,11 +449,18 @@
       <option name="project" value="LOCAL" />
       <updated>1474978740878</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="contactform update... (contact form under construction)">
+      <created>1474979004909</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1474979004909</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27864000" />
+    <option name="totallyTimeSpent" value="28001000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="0" width="2578" height="1409" extended-state="0" />
@@ -895,8 +899,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/my_cv.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="127" column="6" selection-start-line="127" selection-start-column="4" selection-end-line="127" selection-end-column="28" />
+        <state relative-caret-position="466">
+          <caret line="130" column="28" selection-start-line="130" selection-start-column="28" selection-end-line="130" selection-end-column="28" />
           <folding />
         </state>
       </provider>
