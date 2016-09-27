@@ -35,7 +35,49 @@ $(document).ready(function () {
         var clickedMenuItem;
         var blockChanging = false;
 
+        /*ADD CLICK POST FUNCTION TO SUBMIT BUTTON*/
+        function adClickToSubmit() {
+            $("#submit").click(function () {
+                alert("submit click");
+                var name = $("#name").val();
+                var email = $("#email").val();
+                var message = $("#message").val();
+                var contact = $("#contactphon").val();
+                $("#returnmessage").empty(); // To empty previous error/success message.
+                // Checking for blank fields.
+                if (email == '' || message == '') {
+                    alert("Please Fill Required Fields");
+                } else {
+                    // Returns successful data submission message when the entered information is stored in database.
+                    $.post("./php/contact_form.php", {
+                        name1: name,
+                        email1: email,
+                        message1: message,
+                        contact1: contact
+                    }, function (data) {
+                        $("#returnmessage").append(data); // Append returned message to message paragraph.
+                        if (data == "Your Query has been received, I will contact you soon.") {
+                            $("#form")[0].reset(); // To reset form fields on success.
+                        }
+                    });
+                }
+            });
+        }
+
+        /* FUNCTION CHECK IF SUBMIT EXISTS*/
+        function checkSubmit() {
+            if ($("#submit").length)
+                adClickToSubmit();
+        }
+
         function change_div(clicked) {
+
+            /*ADD CLICK FUNCTION TO SUBMIT BUTTON AFTER 1 s*/
+            if (clicked == "contact") {
+                setTimeout(addClickIfVisible, 1000);
+                checkSubmit();
+            }
+
             blockChanging = true;
             $("#menu-menu-1 > li > a").addClass("btntextgrey");
             $("#mfstart").addClass("btntextgrey");
@@ -95,6 +137,7 @@ $(document).ready(function () {
 
             }
         });
+
         /*NAME CLICK EVENT -> HOME PAGE*/
         $("#mfstart").click(function () {
             if (blockChanging == false) {
@@ -102,7 +145,6 @@ $(document).ready(function () {
                 currentMenuItem.removeClass("btn-primary");
             }
         });
-
 
         /*PROFILE CLICK EVENT -> PROFILE PAGE*/
         function addClickIfVisible() {
@@ -122,6 +164,7 @@ $(document).ready(function () {
                 setTimeout(addClickIfVisible, 500);
             }
         }
+
         addClickIfVisible();
     }
 );

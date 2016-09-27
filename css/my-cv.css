@@ -23,7 +23,9 @@ canvas {
     font-weight: normal;
     font-style: normal;
 }
-
+.fontBG{
+    font-family: 'BankGothicBT-Light' !important;
+}
 h3 {
     font-family: 'BankGothicBT-Medium' !important;
 }
@@ -207,3 +209,16 @@ td {
      color: #1e75f6;
     outline-color: #0aebff;
 }
+
+
+hr {
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: 70px;
+    margin-right: 70px;
+    border-style: inset;
+    border-width: 1px;
+    border-color: #595959;
+}
+
