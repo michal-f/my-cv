@@ -38,7 +38,6 @@ $(document).ready(function () {
         /*ADD CLICK POST FUNCTION TO SUBMIT BUTTON*/
         function adClickToSubmit() {
             $("#submit").click(function () {
-                alert("submit click");
                 var name = $("#name").val();
                 var email = $("#email").val();
                 var message = $("#message").val();

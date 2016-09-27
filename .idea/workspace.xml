@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a645b960-c37b-4430-a97f-2138fbe60bd2" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/contact_form.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/contact_form2.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/my-cv.css" afterPath="$PROJECT_DIR$/css/my-cv.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/contact.html" afterPath="$PROJECT_DIR$/html/contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/contact_form.php" afterPath="$PROJECT_DIR$/php/contact_form.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/my_cv.js" afterPath="$PROJECT_DIR$/js/my_cv.js" />
     </list>
     <ignored path="cv.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,11 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1380">
-              <caret line="60" column="26" selection-start-line="60" selection-start-column="26" selection-end-line="60" selection-end-column="26" />
+            <state relative-caret-position="575">
+              <caret line="25" column="81" selection-start-line="25" selection-start-column="81" selection-end-line="25" selection-end-column="81" />
               <folding />
             </state>
           </provider>
@@ -52,11 +47,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="my_cv.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="my_cv.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/my_cv.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-937">
-              <caret line="47" column="20" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
+            <state relative-caret-position="328">
+              <caret line="39" column="44" selection-start-line="39" selection-start-column="44" selection-end-line="39" selection-end-column="44" />
               <folding />
             </state>
           </provider>
@@ -150,11 +145,11 @@
         <option value="C:/php56/php.ini" />
         <option value="$PROJECT_DIR$/simple-jquery-contact-form/contact_form.js" />
         <option value="$PROJECT_DIR$/js/contact_form2.js" />
-        <option value="$PROJECT_DIR$/js/my_cv.js" />
         <option value="$PROJECT_DIR$/php/contact_form.php" />
         <option value="$PROJECT_DIR$/css/my-cv.css" />
         <option value="$PROJECT_DIR$/html/contact.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/my_cv.js" />
       </list>
     </option>
   </component>
@@ -420,7 +415,7 @@
       <updated>1465992950263</updated>
       <workItem from="1474546486581" duration="8332000" />
       <workItem from="1474624568279" duration="16623000" />
-      <workItem from="1474976086702" duration="8061000" />
+      <workItem from="1474976086702" duration="8111000" />
     </task>
     <task id="LOCAL-00001" summary="created megamenu for mobile, reafactored  menu, some issue fixes, contact form fix tryout.">
       <created>1474663685556</created>
@@ -499,11 +494,18 @@
       <option name="project" value="LOCAL" />
       <updated>1474983622411</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="fixed contact validation and sizing of top menu">
+      <created>1474984180161</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1474984180161</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33016000" />
+    <option name="totallyTimeSpent" value="33066000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="0" width="2578" height="1409" extended-state="0" />
@@ -571,7 +573,8 @@
     <MESSAGE value="fixed current nav button selected issue with view profile button" />
     <MESSAGE value="contactform update... (contact form under construction)" />
     <MESSAGE value="Finished contact form" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished contact form" />
+    <MESSAGE value="fixed contact validation and sizing of top menu" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed contact validation and sizing of top menu" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -935,18 +938,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/my_cv.js">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-937">
-          <caret line="47" column="20" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
+        <state relative-caret-position="575">
+          <caret line="25" column="81" selection-start-line="25" selection-start-column="81" selection-end-line="25" selection-end-column="81" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/js/my_cv.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1380">
-          <caret line="60" column="26" selection-start-line="60" selection-start-column="26" selection-end-line="60" selection-end-column="26" />
+        <state relative-caret-position="328">
+          <caret line="39" column="44" selection-start-line="39" selection-start-column="44" selection-end-line="39" selection-end-column="44" />
           <folding />
         </state>
       </provider>
