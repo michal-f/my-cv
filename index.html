@@ -35,30 +35,30 @@
 </div>
 <div id="tab-container" data-easytabs="true">
     <header class="header-area">
+                    <nav id="topNav" class="container navbar navbar-fixed-top bg-faded ">
+                        <div class="row">
+                            <button id="menu-bars-outline" class="navbar-toggler hidden-md-up pull-right" type="button" data-toggle="collapse"
+                                    data-target="#collapsingNavbar">
+                                <i class="fa fa-bars punktor"></i>
+                            </button>
+                            <a id="mfstart" class="btn klb-logotext navbar-brand" title="Michal Frąckowiak Home V Card" href="#"> <span
+                                    class="punktor ">Michał Frąckowiak</span></a>
+                            <div class="collapse navbar-toggleable-sm" id="collapsingNavbar">
+                                <ul id="menu-menu-1" class="nav navbar-nav pull-xs-right menu">
+                                    <li class="nav-item">
+                                        <a class="btntext btn btn-sm">Profile</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="btntext btn btn-sm">Resume</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="btntext btn btn-sm">Contact</a>
+                                    </li>
 
-        <nav id="topNav" class="contaier navbar navbar-fixed-top bg-faded ">
-            <div class="container-fluid">
-                <button id="menu-bars-outline" class="navbar-toggler hidden-md-up pull-right" type="button" data-toggle="collapse" data-target="#collapsingNavbar">
-                    <i  class="fa fa-bars punktor"></i>
-                </button>
-                <a id="mfstart" class="btn klb-logotext navbar-brand" title="Michal Frąckowiak Home V Card"  href="#"> <span class="punktor ">Michał Frąckowiak</span></a>
-                <div class="collapse navbar-toggleable-sm" id="collapsingNavbar">
-                    <ul id="menu-menu-1" class="nav navbar-nav pull-xs-right menu">
-                        <li class="nav-item">
-                            <a class="btntext btn btn-sm">Profile</a>
-                        </li>
-                        <li class="nav-item">
-                               <a class="btntext btn btn-sm">Resume</a>
-                        </li>
-                        <li class="nav-item">
-                             <a class="btntext btn btn-sm">Contact</a>
-                        </li>
-
-                    </ul>
-                </div>
-            </div>
-        </nav>
-
+                                </ul>
+                            </div>
+                        </div>
+                    </nav>
     </header>
     <section class="full-page-cont clearfix">
         <div class="container">
@@ -79,19 +79,19 @@
 </div>
 <script>
     function myMap() {
-        if(document.getElementById('map')){
-        document.getElementById('map').style.display = "block";
-        var mapCanvas = document.getElementById("map");
-        var myCenter = new google.maps.LatLng(54.521423, 18.543009);
-        var mapOptions = {center: myCenter, zoom: 6};
-        var map = new google.maps.Map(mapCanvas, mapOptions);
-        var marker = new google.maps.Marker({
-            position: myCenter,
-            icon: "./img/down-arrow2.png",
-            animation: google.maps.Animation.BOUNCE
-        });
-        marker.setMap(map);
-            }
+        if (document.getElementById('map')) {
+            document.getElementById('map').style.display = "block";
+            var mapCanvas = document.getElementById("map");
+            var myCenter = new google.maps.LatLng(54.521423, 18.543009);
+            var mapOptions = {center: myCenter, zoom: 6};
+            var map = new google.maps.Map(mapCanvas, mapOptions);
+            var marker = new google.maps.Marker({
+                position: myCenter,
+                icon: "./img/down-arrow2.png",
+                animation: google.maps.Animation.BOUNCE
+            });
+            marker.setMap(map);
+        }
     }
 </script>
 <script type="text/javascript" src="./js/w3data.js"></script>
@@ -101,7 +101,6 @@
 <script type="text/javascript" src="./js/bootstrap.js"></script>
 <script type="text/javascript" src="./js/my_cv.js"></script>
 <script type="text/javascript" src="./js/map.js"></script>
-<!--<script type="text/javascript" src="./js/util.js"></script>-->
 <script type="text/javascript" src="./js/component.js"></script>
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD15EWJ1WVQBm58QRbna4QYYakVLhvAhUc&callback=myMap"></script>
 </body>
