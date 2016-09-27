@@ -126,7 +126,7 @@ $(document).ready(function () {
 
 
     /*CONTACT FORM HANDLER*/
-        alert("hello");
+        alert("hello2");
     $("#submit").click(function () {
                 alert("Click");
 
