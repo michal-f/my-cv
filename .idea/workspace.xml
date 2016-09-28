@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a645b960-c37b-4430-a97f-2138fbe60bd2" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/my-cv.css" afterPath="$PROJECT_DIR$/css/my-cv.css" />
     </list>
     <ignored path="cv.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,91 +24,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="5" column="150" selection-start-line="5" selection-start-column="150" selection-end-line="5" selection-end-column="150" />
+            <state relative-caret-position="373">
+              <caret line="41" column="46" selection-start-line="41" selection-start-column="46" selection-end-line="41" selection-end-column="46" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html/contact.html">
+      <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
-              <folding>
-                <element signature="n#style#0;n#article#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#1;n#article#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="my_cv.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/my_cv.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="989">
-              <caret line="43" column="34" selection-start-line="43" selection-start-column="34" selection-end-line="43" selection-end-column="46" />
+            <state relative-caret-position="622">
+              <caret line="3750" column="9" selection-start-line="3750" selection-start-column="0" selection-end-line="3751" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="resume.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html/resume.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="my-cv.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="my-cv.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/my-cv.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5589">
-              <caret line="243" column="34" selection-start-line="243" selection-start-column="34" selection-end-line="243" selection-end-column="34" />
+            <state relative-caret-position="520">
+              <caret line="226" column="24" selection-start-line="226" selection-start-column="24" selection-end-line="226" selection-end-column="24" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="profile.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html/profile.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1978">
-              <caret line="86" column="58" selection-start-line="86" selection-start-column="58" selection-end-line="86" selection-end-column="76" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html/home.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="644">
-              <caret line="28" column="86" selection-start-line="28" selection-start-column="86" selection-end-line="28" selection-end-column="86" />
-              <folding>
-                <element signature="n#style#0;n#article#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h1#1;n#div#1;n#div#0;n#article#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="contact_form.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/php/contact_form.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="690">
-              <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
-              <folding>
-                <marker date="1474996749058" expanded="true" signature="672:698" ph="..." />
-                <marker date="1474996749058" expanded="true" signature="1139:1177" ph="..." />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -179,10 +120,10 @@
         <option value="$PROJECT_DIR$/php/contact_form.php" />
         <option value="$PROJECT_DIR$/js/my_cv.js" />
         <option value="$PROJECT_DIR$/html/profile.html" />
-        <option value="$PROJECT_DIR$/css/my-cv.css" />
         <option value="$PROJECT_DIR$/html/resume.html" />
         <option value="$PROJECT_DIR$/html/home.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/my-cv.css" />
       </list>
     </option>
   </component>
@@ -318,14 +259,14 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\M.Frackowiak\my-cv\v1\css" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\M.Frackowiak\REPOS\my-cv\php" />
       <recent name="C:\Users\M.Frackowiak\REPOS\my-cv\js" />
       <recent name="C:\Users\M.Frackowiak\REPOS\my-cv\html" />
       <recent name="C:\Users\M.Frackowiak\REPOS\my-cv\css" />
-      <recent name="C:\Users\M.Frackowiak\my-cv\v1\css" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\M.Frackowiak\my-cv\v1\css" />
     </key>
   </component>
@@ -438,7 +379,7 @@
       <workItem from="1474976086702" duration="14441000" />
       <workItem from="1475000275400" duration="1654000" />
       <workItem from="1475015820325" duration="700000" />
-      <workItem from="1475062284280" duration="180000" />
+      <workItem from="1475062284280" duration="4532000" />
     </task>
     <task id="LOCAL-00001" summary="created megamenu for mobile, reafactored  menu, some issue fixes, contact form fix tryout.">
       <created>1474663685556</created>
@@ -594,11 +535,18 @@
       <option name="project" value="LOCAL" />
       <updated>1475015918995</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Fixed page change issue">
+      <created>1475062482655</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1475062482655</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41930000" />
+    <option name="totallyTimeSpent" value="46282000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="38" width="2578" height="1371" extended-state="0" />
@@ -672,7 +620,8 @@
     <MESSAGE value="contact form refactor" />
     <MESSAGE value="fixed home page adres in info box" />
     <MESSAGE value="Added some links to resume" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added some links to resume" />
+    <MESSAGE value="Fixed page change issue" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed page change issue" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -687,14 +636,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/js/my_cv.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2392">
-          <caret line="104" column="7" selection-start-line="104" selection-start-column="7" selection-end-line="104" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/w3data.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3013">
@@ -919,29 +860,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
-          <folding>
-            <element signature="n#style#0;n#article#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#1;n#article#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/html/profile.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1978">
           <caret line="86" column="58" selection-start-line="86" selection-start-column="58" selection-end-line="86" selection-end-column="76" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/my-cv.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5589">
-          <caret line="243" column="34" selection-start-line="243" selection-start-column="34" selection-end-line="243" selection-end-column="34" />
           <folding />
         </state>
       </provider>
@@ -965,10 +887,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/html/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
+          <folding>
+            <element signature="n#style#0;n#article#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#article#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="622">
+          <caret line="3750" column="9" selection-start-line="3750" selection-start-column="0" selection-end-line="3751" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="150" selection-start-line="5" selection-start-column="150" selection-end-line="5" selection-end-column="150" />
+        <state relative-caret-position="373">
+          <caret line="41" column="46" selection-start-line="41" selection-start-column="46" selection-end-line="41" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/my-cv.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="226" column="24" selection-start-line="226" selection-start-column="24" selection-end-line="226" selection-end-column="24" />
           <folding />
         </state>
       </provider>
