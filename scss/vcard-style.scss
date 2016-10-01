@@ -1,0 +1,248 @@
+canvas {
+    display: block;
+    border: 2px solid #888;
+}
+
+@font-face {
+    font-family: 'BankGothicBT-Medium';
+    src: url('../fonts/BankGothicBT-Medium.eot?#iefix') format('embedded-opentype'), url('../fonts/BankGothicBT-Medium.woff') format('woff'), url('../fonts/BankGothicBT-Medium.ttf') format('truetype'), url('../fonts/BankGothicBT-Medium.svg#BankGothicBT-Medium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BankGothicBT-Light';
+    src: url('../fonts/BankGothicBT-Light.eot?#iefix') format('embedded-opentype'), url('../fonts/BankGothicBT-Light.woff') format('woff'), url('../fonts/BankGothicBT-Light.ttf') format('truetype'), url('../fonts/BankGothicBT-Light.svg#BankGothicBT-Light') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'mfizz';
+    src: url('../fonts/BankGothicBT-Light.eot?#iefix') format('embedded-opentype'), url('../fonts/BankGothicBT-Light.woff') format('woff'), url('../fonts/BankGothicBT-Light.ttf') format('truetype'), url('../fonts/BankGothicBT-Light.svg#BankGothicBT-Light') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.fontBG {
+    font-family: 'BankGothicBT-Light' !important;
+}
+
+h3 {
+    font-family: 'BankGothicBT-Medium' !important;
+}
+
+h5 {
+    font-family: 'BankGothicBT-Light' !important;
+    color: white;
+}
+
+h6 {
+    zoom: 125%;
+}
+
+.circle-front {
+    font-weight: 300;
+}
+
+.btntext {
+    padding-left: 15px;
+    padding-right: 15px;
+    font-family: 'BankGothicBT-Light' !important;
+    color: #ffffff !important;
+    zoom: 120%;
+}
+
+.btntext:hover {
+    color: #0aebff !important;
+}
+
+.btntextgrey {
+    color: black !important;
+}
+
+.btntextgrey:hover {
+    color: black !important;
+}
+
+.txtcent {
+    text-align: center !important;
+}
+
+/*  --- SKILL ICONS  --- */
+.hi-icon:hover {
+    background: #073dff !important;
+}
+
+.home-round-icon-title {
+    zoom: 110%;
+}
+
+/*  --- PUNKTOR PROFILE SKILL LIST  --- */
+.punktor {
+    color: #1e75f6;
+    -o-transition: .5s;
+    -ms-transition: .5s;
+    -moz-transition: .5s;
+    -webkit-transition: .5s;
+    transition: .5s;
+}
+
+.punktor:hover {
+    color: #0aebff;
+}
+
+/*  --- RESUME PAGE  --- */
+.company-name-resume {
+    color: #ffffff !important;
+    font-family: 'BankGothicBT-Light' !important;
+}
+
+.date-resume {
+    color: #757575 !important;
+    font-family: 'BankGothicBT-Light' !important;
+    zoom: 85%;
+}
+
+.resume-h4 {
+    font-family: 'BankGothicBT-Light' !important;
+    zoom: 110%;
+}
+
+.resume-subitem {
+    font-family: 'BankGothicBT-Light' !important;
+    color: #1966db !important;
+}
+
+td {
+    text-justify: inter-word;
+    padding: 0 !important;
+    margin: 0 !important;
+    border: none;
+    vertical-align: top;
+}
+
+.resume-punktor {
+    color: #1555b5;
+}
+
+.ug-resume {
+    color: #1966db !important;
+    font-family: "Roboto", "Lucida Grande", Verdana, Arial, sans-serif !important;
+}
+
+.ug2-resume {
+    color: white !important;
+}
+
+.resume-edu {
+    margin-top: 25px !important;
+}
+
+#map_canvas {
+    display: none;
+}
+
+/*  --- MODALS  --- */
+/*The Modal (background)*/
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 55; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0, 0, 0); /* Fallback color */
+    background-color: rgba(0, 0, 0, 0.4); /* Black w/ opacity */
+}
+
+/* Modal Content/Box */
+.modal-content {
+    background-color: #000000;
+    margin: 15% auto; /* 15% from the top and centered */
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%; /* Could be more or less, depending on screen size */
+}
+
+/* The Close Button */
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+/* View profile Button */
+#viewprofile {
+    margin-top: 3px;
+    -o-transition: .5s;
+    -ms-transition: .5s;
+    -moz-transition: .5s;
+    -webkit-transition: .5s;
+    transition: .5s;
+}
+
+#viewprofile:hover {
+    color: #1b47ff;
+}
+
+/* NAVIGATION */
+#menu-menu-1 {
+    padding-top: 5px;
+}
+
+#mfstart {
+    zoom: 90%;
+}
+
+#topNav {
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+#menu-bars-outline {
+    color: #1e75f6;
+}
+
+#menu-bars-outline:hover {
+    color: #1e75f6;
+    outline-color: #0aebff;
+}
+
+hr {
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: 70px;
+    margin-right: 70px;
+    border-style: inset;
+    border-width: 1px;
+    border-color: #595959;
+}
+
+#personal-skills {
+    zoom: 120%;
+    margin-top: 0;
+    padding-top: 0;
+}
+
+.h4-blue {
+    color: #1e75f6 !important;
+}
+
+.h4-blue:hover {
+    color: #0aebff !important;
+}
+
+.hover-b:hover {
+    color: #0aebff !important;
+}
