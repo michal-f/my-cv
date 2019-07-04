@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a645b960-c37b-4430-a97f-2138fbe60bd2" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/html/resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/resume.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="cv.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -112,8 +112,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/html/resume.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="17" column="61" selection-start-line="17" selection-start-column="61" selection-end-line="17" selection-end-column="61" />
+            <state relative-caret-position="789">
+              <caret line="546" column="70" selection-start-line="546" selection-start-column="70" selection-end-line="546" selection-end-column="70" />
               <folding>
                 <element signature="n#style#0;n#span#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#1;n#article#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#1;n#article#0;n#!!top" expanded="true" />
@@ -139,6 +139,7 @@
                 <element signature="n#style#0;n#span#0;n#div#0;n#li#13;n#ul#0;n#div#0;n#div#6;n#div#1;n#div#1;n#div#1;n#article#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#div#0;n#li#14;n#ul#0;n#div#0;n#div#6;n#div#1;n#div#1;n#div#1;n#article#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#div#0;n#li#15;n#ul#0;n#div#0;n#div#6;n#div#1;n#div#1;n#div#1;n#article#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#div#7;n#div#1;n#div#1;n#div#1;n#article#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#8;n#div#1;n#div#1;n#div#1;n#article#0;n#!!top" expanded="true" />
               </folding>
             </state>
@@ -229,18 +230,18 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="2577" />
-    <option name="height" value="1417" />
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="2579" />
+    <option name="height" value="1419" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Course" />
       <pane id="ProjectPane" />
+      <pane id="Course" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -584,14 +585,12 @@
     <option name="totallyTimeSpent" value="57284000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="2061" height="1133" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="2062" height="1134" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11758893" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11753087" />
       <window_info id="Structure" order="1" weight="0.2496474" />
       <window_info id="DB Browser" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Educational.CheckDetails" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49838486" weight="0.3291536" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -603,10 +602,11 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Application Servers" order="9" />
       <window_info anchor="bottom" id="Python Console" order="10" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.59058297" visible="true" weight="0.1409135" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.59058297" visible="true" weight="0.1407767" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5015748" side_tool="true" weight="0.4" />
       <window_info anchor="bottom" id="Messages" order="13" weight="0.32941177" />
       <window_info anchor="bottom" id="PHP-CGI Server" order="14" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="15" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -857,8 +857,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/html/resume.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="17" column="61" selection-start-line="17" selection-start-column="61" selection-end-line="17" selection-end-column="61" />
+        <state relative-caret-position="789">
+          <caret line="546" column="70" selection-start-line="546" selection-start-column="70" selection-end-line="546" selection-end-column="70" />
           <folding>
             <element signature="n#style#0;n#span#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#1;n#article#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#1;n#article#0;n#!!top" expanded="true" />
@@ -884,6 +884,7 @@
             <element signature="n#style#0;n#span#0;n#div#0;n#li#13;n#ul#0;n#div#0;n#div#6;n#div#1;n#div#1;n#div#1;n#article#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#div#0;n#li#14;n#ul#0;n#div#0;n#div#6;n#div#1;n#div#1;n#div#1;n#article#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#div#0;n#li#15;n#ul#0;n#div#0;n#div#6;n#div#1;n#div#1;n#div#1;n#article#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#div#7;n#div#1;n#div#1;n#div#1;n#article#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#8;n#div#1;n#div#1;n#div#1;n#article#0;n#!!top" expanded="true" />
           </folding>
         </state>
